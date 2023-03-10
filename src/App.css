@@ -1,0 +1,136 @@
+
+
+/***************
+* Header
+****************/
+
+#header {
+  background-color: rgb(21, 21, 21);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 20px;
+}
+
+#navBar {
+  background-color: white;
+  /* color: white; */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: row;
+  padding: 45px;
+  margin: 25px;
+  border-radius: 10px;
+  border: 1px solid black;
+  text-decoration: none;
+}
+
+
+.headerImage {
+  height: 100px;
+  width: 100px;
+  padding: 10px;
+  text-decoration: none;
+  color: black
+}
+
+.headerImage img {
+  height: 100%;
+  width: 100%;
+  text-decoration: none;
+  border-color: none;
+  background-color: gray;
+}
+
+.site-title {
+  color: inherit;
+  font-size: 3rem;
+  text-decoration: none;
+}
+
+
+/* Landing Page Styles */
+#landingPageBoxes {
+  display: flex;
+  flex-direction: row;
+  margin: 25px;
+}
+
+#loginForms {
+  width: 30%;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+#signInBox {
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: #e0e7ed;
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+#signInBox h1 {
+  text-align: center;
+}
+
+#signUpBox {
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: #e0e7ed;
+  width: 100%;
+  padding: 10px;
+  
+}
+
+#signUpBox h1 {
+  text-align: center;
+  
+}
+
+#signupSubmit {
+  margin: 10px;
+}
+
+.formInfo {
+  width: 100%;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.formItem {
+  margin: 10px;
+  width: 100%;
+}
+
+#posts {
+  width: 70%;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: #e0e7ed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-left: 15px;
+  padding: 10px;
+}
+
+.singlePost {
+  background-color: white;
+  opacity: 95%;
+  border: 0.5px solid black;
+  border-radius: 20px;
+  width: 90%;
+  margin: 10px;
+  padding: 15px;
+}
+
