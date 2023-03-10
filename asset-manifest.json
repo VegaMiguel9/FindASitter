@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FindASitter/static/css/main.a858ab69.css",
+    "main.js": "/FindASitter/static/js/main.476b1549.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/FindASitter/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/FindASitter/index.html",
+    "main.a858ab69.css.map": "/FindASitter/static/css/main.a858ab69.css.map",
+    "main.476b1549.js.map": "/FindASitter/static/js/main.476b1549.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/FindASitter/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a858ab69.css",
+    "static/js/main.476b1549.js"
+  ]
+}
